@@ -13,5 +13,5 @@ console.log(currentBrowserScrollbarWidth); // value depends on browser, 15 pixel
 
 [![NPM][nodei-image]][nodei-url]
 
-[nodei-image]: https://nodei.co/npm/simple-iso-fetch.png?downloads=true&downloadRank=true&stars=true
-[nodei-url]: https://www.npmjs.com/package/simple-iso-fetch
+[nodei-image]: https://nodei.co/npm/get-scrollbar-width.png?downloads=true&downloadRank=true&stars=true
+[nodei-url]: https://www.npmjs.com/package/get-scrollbar-width
