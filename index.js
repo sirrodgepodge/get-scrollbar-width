@@ -23,7 +23,7 @@ module.exports = function getScrollBarWidth() {
    document.body.appendChild(outer);
    const w1 = inner.offsetWidth;
    outer.style.overflow = 'scroll';
-   let w2 = inner.offsetWidth;
+   var w2 = inner.offsetWidth;
    if (w1 === w2) w2 = outer.clientWidth;
 
    document.body.removeChild(outer);
