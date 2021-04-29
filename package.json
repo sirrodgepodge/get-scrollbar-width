@@ -1,6 +1,6 @@
 {
   "name": "get-scrollbar-width",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "utility function to determine the scrollbar width of the current browser, returns zero if running server-side",
   "main": "index.js",
   "repository": {
