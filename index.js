@@ -4,7 +4,7 @@ function isServer() {
 
 module.exports = function getScrollBarWidth() {
    // default to 15px server-side as this is true for many browsers
-   if(isServer()) return 0;
+   if(isServer()) return 15;
 
    const inner = document.createElement('p');
    inner.style.width = '100%';
